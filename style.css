@@ -1,0 +1,21 @@
+img{
+    width: 300px;
+
+}
+.container{
+    border: 2px solid red;
+    display: flex;
+
+}
+h1{
+    color: #ff80c0;
+    text-shadow: -1px 1px 1px #f5007a;
+
+    
+}
+p{
+    color: #00ffff;
+    text-align: center;
+    text-shadow: -10px 10px 5px #110111;
+    font-size: 25px;
+}
